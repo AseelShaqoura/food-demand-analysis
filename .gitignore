@@ -1,0 +1,7 @@
+# Keep the supplied raw data local; never publish it.
+data/
+/المشروع النهائي.pdf
+/client_report.pdf
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
